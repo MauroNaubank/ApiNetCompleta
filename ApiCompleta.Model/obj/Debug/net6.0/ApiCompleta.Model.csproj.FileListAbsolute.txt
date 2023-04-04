@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\bin\Debug\net6.0\ApiCompleta.Model.deps.json
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\bin\Debug\net6.0\ApiCompleta.Model.dll
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\bin\Debug\net6.0\ApiCompleta.Model.pdb
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.AssemblyInfo.cs
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.dll
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\refint\ApiCompleta.Model.dll
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ApiCompleta.Model.pdb
+C:\Users\USER\Desktop\c#\ApiCompleta\ApiCompleta.Model\obj\Debug\net6.0\ref\ApiCompleta.Model.dll
